@@ -1,5 +1,5 @@
 # nostale-packet-sender
-A packet sender for the MMORPG NosTale that reads packets from a pipe and sends them to the game server using the game client's send function. You can find a minimal example of a pipe server [here](https://gist.github.com/Gilgames000/dbdacd1f455aff60d819ffdddd3dfd02).
+A spacket sender for the MMORPG NosTale that reads packets from a pipe and sends them to the game server using the game client's send function. You can find a minimal example of a pipe server [here](https://gist.github.com/Gilgames000/dbdacd1f455aff60d819ffdddd3dfd02).
 
 ## How to use
 1. Build the dll
